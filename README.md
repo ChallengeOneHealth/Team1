@@ -1,5 +1,5 @@
-# Team1
-Innovation der extensiven Tierhaltung - EXTENSIVE FARMING NETWORK
+# Team 1 - EXTENSIVE FARMING NETWORK
+Innovation der extensiven Tierhaltung
 
 ---
 # Extensive Farming Network
