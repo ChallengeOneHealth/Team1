@@ -29,7 +29,7 @@ Nach Abschluss des Hackathons wird die Jury die Projekte anhand der folgenden Kr
 ---
 ## Pitchvideo
 Klick to start!
-[![Was ist ein Hackathon](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://youtu.be/z6YhX6st9Mc)
+[![Extensive Farming Network](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://youtu.be/z6YhX6st9Mc)
 Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge. 
 
 ---
