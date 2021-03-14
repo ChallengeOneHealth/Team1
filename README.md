@@ -42,7 +42,7 @@ Phase II
 2. Qualitätssicherung des produzierten Fleisches (mit Hilfe des deutschen QS-Systems zum Beispiel)
 3. Logistik von Schlachtung bis zur Theke und darüber hinaus für Export nach China, Iran, Europa, Türkei, etc
 
-Resultate der Tätigkeit des Extensive Farming Networks:
+Erwarteter Impact des Extensive Farming Networks:
 1. Nachhaltige und ethische Produktion von gesundem Fleisch in industriellem Maßstab
 2. Verhinderung der Desertifikation, mehr CO2 Absorbtion durch Vegetation, Wiederkehr der Artenvielfalt in die Große Eurasiatische Steppe
 3. Rettung und Professionalisierung der noch erhaltenen Nomadenkultur
