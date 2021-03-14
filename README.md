@@ -64,7 +64,7 @@ Bitte hinterlegt eine Lizenz für euer Projekt [LICENSE.md](LICENSE.md)
 ---
 ## Was fehlt eurem Projekt noch?
 * Forscher
-* Fördermittel
+* Fördermittel (wichtig für Phase I-Punkt 1, zum Kickstarten des sich später selbstzahlenden Projekts)
 
 ---
 
