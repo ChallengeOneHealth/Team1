@@ -15,7 +15,7 @@ Klick to start!
 ---
 ## Problemstellung 
 
-Intensive Tierhaltung führt zu gefährlichen Zoonosen, ist extrem umweltschädlich und verringert die genetische Varietät der Tiere. Gleichzeitig gibt es auf der Welt immer weniger verfügbares Land, während die Weltbevölkerung einen wachsenden Bedarf an Proteinen hat. Deswegen müssen nachhaltige Lösungen gefunden werden. 
+Intensive Tierhaltung führt zu gefährlichen Zoonosen, ist extrem umweltschädlich und verringert die genetische Vielfalt der Tiere. Gleichzeitig gibt es auf der Welt immer weniger verfügbares Land, während die Weltbevölkerung einen wachsenden Bedarf an Proteinen hat. Deswegen müssen nachhaltige Lösungen gefunden werden. 
 
 ---
 ## Lösung 
