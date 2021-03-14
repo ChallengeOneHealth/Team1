@@ -33,13 +33,13 @@ Die Lösung ist ein branchenübergreifendes Joint-Venture in dem deutsche Techno
 Wie soll dieser Prozess step-by-step ausschauen und was soll er erzielen? 
 
 Phase I
-1. Einführung robuster Europäischer Rassen, die auf Grund von Intensivtierhaltung in Europa vom Aussterben bedroht sind und folgend ein Rinderrassenvergleich mit dem Ziel die optimale Rasse für Extensivtierhaltung zu finden.
--> Einbindung lokaler Farmer, die jeweils eine Herde zur Bewirtschaftung erhalten, jedoch jede Generation 40% der Kälber an das Extensive Farming Network (EWN) abgeben. **Dies generiert ab der ersten Generation schon Einkommen, sowohl für das EWN als auch den Farmer*.**
+1. Einführung robuster Europäischer Rassen, die auf Grund von Intensivtierhaltung in Europa vom Aussterben bedroht sind und folgend ein Rinderrassenvergleich mit dem Ziel die optimale Rasse für Extensivtierhaltung zu finden
+-> Einbindung lokaler Farmer, die jeweils eine Herde zur Bewirtschaftung erhalten, jedoch jede Generation 40% der Kälber an das Extensive Farming Network (EFN) abgeben. **Dies generiert ab der ersten Generation schon Einkommen, sowohl für das EWN als auch den Farmer (siehe Anm).**
 2. Design eines integrativen und data-driven Tiergesundheitssystems basierend auf deutscher Erfahrung mit dem Kampf gegen Maul-und Klauenseuche, Brucellose, etc. , aber angepasst an die extensive Tierhaltung
 3. Datengetriebene Optimierung des Herd-Management (mit Benutzung Deutscher Technologien wie z.B PhotonicNet4Farming, etc)
 4. Research-Group im Bereich Umwelt-und Bodenwissenschaft, welche mit Hilfe der Tiere aus Punkt 1 und den Tools aus Punkt 3 untersuchen soll wie Desertifizierung mit Hilfe von intelligenter Beweidung gestoppt werden kann. Dafür stehen Forschern hunderttausende Hektar Land zur Verfügung. Dies würde ein einmaliges und revolutionäres Projekt werden, das es in diesem Maßstab noch nie gegeben hat und wichtige Ergebnisse für andere gefährdete Regionen der Welt liefern kann und wird.
 
-* Wenn die initiale Herde 100 Färsen beträgt (n=100), so erhält ein Farmer in der ersten Kalbung 100 Kälber, davon gibt er 40 an das EFN und behält 60 für sich selbst (n=160). Das EFN kann die Kälber entweder an andere Farmer vergeben oder sie verkaufen (Wert:EUR 250/Kalb). In dem Fall, dass Farmer und EFN keine Tiere verkaufen und immer weiterzüchten erhält man nach 10 Generationen im Falle des Farmers n=10995 (EUR 2.748.750), und im Falle EFN n=2892 (EUR 723.000). Die Kalkulation lässt sich dementsprechend auch extrapolieren auf eine Mehrzahl von beteiligten Farmern. 
+Anm.: Wenn die initiale Herde 100 Färsen beträgt (n=100), so erhält ein Farmer in der ersten Kalbung 100 Kälber, davon gibt er 40 an das EFN und behält 60 für sich selbst (n=160). Das EFN kann die Kälber entweder an andere Farmer vergeben oder sie verkaufen (Wert:EUR 250/Kalb). In dem Fall, dass Farmer und EFN keine Tiere verkaufen und immer weiterzüchten erhält man nach 10 Generationen im Falle des Farmers n=10995 (EUR 2.748.750), und im Falle EFN n=2892 (EUR 723.000). Die Kalkulation lässt sich dementsprechend auch extrapolieren auf eine Mehrzahl von beteiligten Farmern. 
 
 Phase II
 1. Entwicklung, Optimierung und Kommerzialisierung von mobilen Schlachthöfen 
