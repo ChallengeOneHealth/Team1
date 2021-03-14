@@ -1,5 +1,5 @@
 # Team1
-Innovation der extensiven Tierhaltung
+Innovation der extensiven Tierhaltung - EXTENSIVE FARMING NETWORK
 
 ---
 # Extensive Farming Network
@@ -14,7 +14,7 @@ Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge.
 ## Teammitglieder
 
 * **Jamila Jaxaliyeva** - *Ideengeberin* - [project name](https://github.com/projectname)
-* **Eure Namen** - *Designer:in* - [project name](https://github.com/projectname)
+
 
 ---
 ## Problemstellung 
@@ -31,7 +31,7 @@ Die Lösung ist ein interdisziplinäres Joint-Venture in dem deutsche Technologi
 Wie soll dieser Prozess step-by-step ausschauen und was soll es erzielen? 
 
 1. Einführung robuster Europäischer Rassen, die auf Grund von Intensivtierhaltung in Europa vom Aussterben bedroht sind und folgend ein Rinderrassenvergleich mit dem Ziel die optimale Rasse für Extensivtierhaltung zu finden.
--> Einbindung lokaler Farmer, die jeweils eine Herde zur Bewirtschaftung erhalten, jedoch 40% der Kälber an das Extensive Farming Network (EWN) abgeben. **Dies generiert ab der ersten Generation schon Einkommen, sowohl für das EWN als auch den Farmer. **
+-> Einbindung lokaler Farmer, die jeweils eine Herde zur Bewirtschaftung erhalten, jedoch 40% der Kälber an das Extensive Farming Network (EWN) abgeben. **Dies generiert ab der ersten Generation schon Einkommen, sowohl für das EWN als auch den Farmer.**
 2. Design eines integratives data-driven Tiergesundheitssystem basierend auf deutscher Erfahrung mit dem Kampf gegen Maul-und Klauenseuche, Brucellose, etc. , aber angepasst an die extensive Tierhaltung
 3. Datengetriebene Optimierung des Herd-Management (mit Benutzung Deutscher Technologien wie z.B PhotonicNet4Farming, etc)
 4. Research-Group im Bereich Umwelt-und Bodenwissenschaft, welche mit Hilfe der Tiere aus Punkt 1 und den Tools aus Punkt 3 untersuchen soll wie Desertifizierung mit Hilfe von intelligenter Beweidung gestoppt werden kann. Dafür stehen Forschern hunderttausende Hektar Land zur Verfügung. Dies würde ein einmaliges und revolutionäres Projekt werden, das es in diesem Maßstab noch nie gegeben hat und wichtige Ergebnisse für andere gefährdete Regionen der Welt liefern kann und wird.
