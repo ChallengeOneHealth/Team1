@@ -22,7 +22,7 @@ Intensive Tierhaltung führt zu gefährlichen Zoonosen, ist extrem umweltschädl
 
 Extensive Tierhaltung ist ethisch, gesund und kostengünstig, bedarf jedoch an Land. 
 
-Kasachstan hat 100 Mio. Ha unbenutztes Land und eine Jahrhunderte alte Nomadenkultur. Es ist wahrscheinlich die einzige Region auf der Welt, die das Potential hat NACHHALTIGES Fleisch für bis zu 1 Milliarde Menschen zu produzieren. Leider besteht das Risiko, dass unsere Nomadenkultur für immer verloren geht auf Grund der Landflucht der jungen Menschen und der zunehmend beliebten Idee, dass intensive Tierhaltung der richtige Weg ist. Auf Grund fehlender Bildung auf dem Land haben viele Farmer falsches Herdenmanagement betrieben (zu viele Tiere im Umkreis von Dörfen, zu wenig Tiere in den Weiten der Steppe). Dies führt zur Desertifizierung der Steppe, was als Konsequenz auch höhere CO2 Werte hat. 
+Kasachstan hat 100 Mio. Ha unbenutztes Land und eine Jahrhunderte alte Nomadenkultur. Es ist wahrscheinlich die einzige Region auf der Welt, die das Potential hat NACHHALTIGES Fleisch für bis zu 1 Milliarde Menschen zu produzieren. Leider besteht das Risiko, dass unsere Nomadenkultur für immer verloren geht aufgrund der Landflucht der jungen Menschen und der zunehmend beliebten Idee, dass intensive Tierhaltung der richtige Weg ist. Aufgrund fehlender Bildung auf dem Land haben viele Farmer falsches Herdenmanagement betrieben (zu viele Tiere im Umkreis von Dörfern, zu wenig Tiere in den Weiten der Steppe). Dies führt zur Desertifizierung der Steppe, was als Konsequenz auch höhere CO2 Werte hat. 
 
 Die Lösung ist ein branchenübergreifendes Joint-Venture in dem deutsche Technologie mit nomadischem Know-How verbunden wird (Extensive Farming Network) um den traditionellen Pastoralismus zu erhalten und zu professionalisieren. Ein interdisziplinäres Praxisforschungsnetzwerk mit peer-to-peer Ansatz, welches Forschung mit Wirtschaft verbindet und gleichzeitig Weiterbildung für lokale Farmer verfügbar macht. 
 
@@ -44,7 +44,7 @@ Phase II
 
 Erwarteter Impact des Extensive Farming Networks:
 1. Nachhaltige und ethische Produktion von gesundem Fleisch in industriellem Maßstab
-2. Verhinderung der Desertifikation, mehr CO2 Absorbtion durch Vegetation, Wiederkehr der Artenvielfalt in die Große Eurasiatische Steppe
+2. Verhinderung der Desertifikation, mehr CO2 Absorbtion durch Vegetation, Wiederkehr der Artenvielfalt in die Große Eurasischen Steppe
 3. Rettung und Professionalisierung der noch erhaltenen Nomadenkultur
 4. Lösung des größten Sozioökonomischen Problems Kasachstans, Verhinderung der Landflucht und Verbesserung der Bildung im ländlichen Bereich 
 5. Wiederbelebung von robusten, in Zahlen gesunkenen Rassen Europas (Ungarisches Graurind, Spanische Tudanco, Italienische Piemonter, Französische Gascon etc)
