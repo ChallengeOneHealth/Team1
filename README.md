@@ -9,7 +9,7 @@ Klick to start!
 ---
 ## Teammitglieder
 
-* **Jamila Jaxaliyeva** - *Ideengeberin* - [Extensive Farming Network](https://github.com/projectname)
+* **Jamila Jaxaliyeva** - *Ideengeberin* - [Extensive Farming Network](https://youtu.be/z6YhX6st9Mc)
 
 
 ---
