@@ -1,35 +1,13 @@
 # Team1
 Innovation der extensiven Tierhaltung
 
-# Template Repository für die Einreichung von Ideen
-
-* Die Erstellung eines Repositorys ist verpflichtend für die Bewertung durch unsere Jury
-* Mit der README.md Datei des Repository präsentiert ihr eure Idee der gesamten Community und Sie ist der erste Kontakt mit potenziellen Unterstützer:innen
-* Wenn ihr noch nicht mit Markdown gearbeitet habt hilft euch dieser [Artikel](https://guides.github.com/features/mastering-markdown/) :bookmark_tabs: und das [Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) :octocat: 
-* Es gibt für die ersten 6 Bereiche der README.md Datei eine feste Strucktur (Projektname, Pitchvideo ca. 3 min lang, Teammitglieder, Problemstellung, Lösung, Slack Channel)
-* Im Anschluss an diese Rubriken solltet Ihr versuchen einen noch tieferen Einblick in euer Projekt zu geben.
-* Wichtig für die weitere Verwendbarkeit des Projekts ist die Lizensierung. Github bietet hier einige Open Source Lizenzen an, solltet ihr Fragen haben welche für euer Repository/Projekt das richtige ist dann stellt eure Fragen gern im Slack Channel #0_challenge-one-health-hackathon-2021.
-
----
-## Kriterien der Jury
-Nach Abschluss des Hackathons wird die Jury die Projekte anhand der folgenden Kriterien bewerten:
-
-**Primärkriterien**
-* Vision & Potenzial
-* Innovationshöhe: Technologie | Geschäftsmodell | Distribution
-* Wirtschaftliches Potenzial
-* Cross-Sektorale Vorbildlichkeit
-
-**Sekundärkriterien** 
-* Funktionalität + Stabilität + Problemlösungsbezug = Qualität der entwickelten Lösung
-
 ---
 # Extensive Farming Network
 
 ---
 ## Pitchvideo
 Klick to start!
-[![Extensive Farming Network](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://youtu.be/z6YhX6st9Mc)
+[![Was ist ein Hackathon](https://challengeonehealth.com/wp-content/uploads/2020/12/Challenge-One-Health-Hackathon-Online-1-scaled.jpg)](https://challengeonehealth.com/wp-content/uploads/2021/02/was_ist_ein_hackaton.mp4)
 Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge. 
 
 ---
@@ -48,13 +26,17 @@ Intensive Tierhaltung führt zu gefährlichen Zoonosen, ist extrem umweltschädl
 
 Kasachstan hat 100 Mio. Ha unbenutztes Land und eine Jahrhunderte alte Nomadenkultur. Es ist wahrscheinlich die einzige Region auf der Welt, die das Potential hat NACHHALTIGES Fleisch für bis zu 1 Milliarde Menschen zu produzieren. Leider besteht das Risiko, dass unsere Nomadenkultur für immer verloren geht auf Grund der Landflucht der jungen Menschen und der zunehmend beliebten Idee, dass intensive Tierhaltung der richtige Weg ist. Auf Grund fehlender Bildung auf dem Land haben viele Farmer falsches Herdenmanagement betrieben (zu viele Tiere im Umkreis von Dörfen, zu wenig Tiere in den Weiten der Steppe). Dies führt zur Desertifizierung der Steppe, was als Konsequenz auch höhere CO2 Werte hat. 
 
-Die Lösung ist ein Joint-Venture in dem deutsche Technologie mit nomadischem Know-How verbunden wird (Extensive Farming Network) um den traditionellen Pastoralismus zu erhalten und zu professionalisieren. Ein Praxisforschungsnetzwerk mit peer-to-peer Ansatz, welches Forschung mit Wirtschaft verbindet. 
+Die Lösung ist ein interdisziplinäres Joint-Venture in dem deutsche Technologie mit nomadischem Know-How verbunden wird (Extensive Farming Network) um den traditionellen Pastoralismus zu erhalten und zu professionalisieren. Ein Praxisforschungsnetzwerk mit peer-to-peer Ansatz, welches Forschung mit Wirtschaft verbindet. 
 
-1. Einführung robuster Europäischer Rassen, die auf Grund von Intensivtierhaltung in Europa vom Aussterben bedroht sind und Rinderrassenvergleich mit dem Ziel die optimale Rasse für Extensivtierhaltung zu finden
-      -> Einbindung lokaler Farmer, die jeweils eine Herde zur Bewirtschaftung erhalten, jedoch jede Generation 
+Wie soll dieser Prozess step-by-step ausschauen und was soll es erzielen? 
+
+1. Einführung robuster Europäischer Rassen, die auf Grund von Intensivtierhaltung in Europa vom Aussterben bedroht sind und folgend ein Rinderrassenvergleich mit dem Ziel die optimale Rasse für Extensivtierhaltung zu finden.
+-> Einbindung lokaler Farmer, die jeweils eine Herde zur Bewirtschaftung erhalten, jedoch 40% der Kälber an das Extensive Farming Network (EWN) abgeben. **Dies generiert ab der ersten Generation schon Einkommen, sowohl für das EWN als auch den Farmer. **
+2. Design eines integratives data-driven Tiergesundheitssystem basierend auf deutscher Erfahrung mit dem Kampf gegen Maul-und Klauenseuche, Brucellose, etc. , aber angepasst an die extensive Tierhaltung
 3. Datengetriebene Optimierung des Herd-Management (mit Benutzung Deutscher Technologien wie z.B PhotonicNet4Farming, etc)
-4. Integratives Tiergesundheitssystem basierend auf deutscher Erfahrung mit dem Kampf gegen Maul-und Klauenseuche, Brucellose, etc. 
+4. Research-Group im Bereich Umwelt-und Bodenwissenschaft, welche mit Hilfe der Tiere aus Punkt 1 und den Tools aus Punkt 3 untersuchen soll wie Desertifizierung mit Hilfe von intelligenter Beweidung gestoppt werden kann. Dafür stehen Forschern hunderttausende Hektar Land zur Verfügung. Dies würde ein einmaliges und revolutionäres Projekt werden, das es in diesem Maßstab noch nie gegeben hat und wichtige Ergebnisse für andere gefährdete Regionen der Welt liefern kann und wird.
 5. 
+6. 
 
 
 Welche Lösung habt ihr für das Problem entwickelt?
