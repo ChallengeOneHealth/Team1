@@ -24,7 +24,7 @@ Nach Abschluss des Hackathons wird die Jury die Projekte anhand der folgenden Kr
 * Funktionalität + Stabilität + Problemlösungsbezug = Qualität der entwickelten Lösung
 
 ---
-# Projektname (Bitte ändern)
+# Extensive Farming Network
 
 ---
 ## Pitchvideo
@@ -35,16 +35,27 @@ Hier bitte ein Pitchvideo hinterlegen, ca. 3 min Länge.
 ---
 ## Teammitglieder
 
-* **Eure Namen** - *Ideengeber:in* - [project name](https://github.com/projectname)
+* **Jamila Jaxaliyeva** - *Ideengeberin* - [project name](https://github.com/projectname)
 * **Eure Namen** - *Designer:in* - [project name](https://github.com/projectname)
 
 ---
 ## Problemstellung 
 
-Bitte beschreibe hier das Problem, welches ihr lösen wollt.
+Intensive Tierhaltung führt zu gefährlichen Zoonosen, ist extrem umweltschädlich und verringert die genetische Varietät der Tiere. Gleichzeitig gibt es auf der Welt immer weniger verfügbares Land, während die Weltbevölkerung einen wachsenden Bedarf an Proteinen hat. Deswegen müssen nachhaltige Lösungen gefunden werden. 
 
 ---
 ## Lösung 
+
+Kasachstan hat 100 Mio. Ha unbenutztes Land und eine Jahrhunderte alte Nomadenkultur. Es ist wahrscheinlich die einzige Region auf der Welt, die das Potential hat NACHHALTIGES Fleisch für bis zu 1 Milliarde Menschen zu produzieren. Leider besteht das Risiko, dass unsere Nomadenkultur für immer verloren geht auf Grund der Landflucht der jungen Menschen und der zunehmend beliebten Idee, dass intensive Tierhaltung der richtige Weg ist. Auf Grund fehlender Bildung auf dem Land haben viele Farmer falsches Herdenmanagement betrieben (zu viele Tiere im Umkreis von Dörfen, zu wenig Tiere in den Weiten der Steppe). Dies führt zur Desertifizierung der Steppe, was als Konsequenz auch höhere CO2 Werte hat. 
+
+Die Lösung ist ein Joint-Venture in dem deutsche Technologie mit nomadischem Know-How verbunden wird (Extensive Farming Network) um den traditionellen Pastoralismus zu erhalten und zu professionalisieren. Ein Praxisforschungsnetzwerk mit peer-to-peer Ansatz, welches Forschung mit Wirtschaft verbindet. 
+
+1. Einführung robuster Europäischer Rassen, die auf Grund von Intensivtierhaltung in Europa vom Aussterben bedroht sind und Rinderrassenvergleich mit dem Ziel die optimale Rasse für Extensivtierhaltung zu finden
+      -> Einbindung lokaler Farmer, die jeweils eine Herde zur Bewirtschaftung erhalten, jedoch jede Generation 
+3. Datengetriebene Optimierung des Herd-Management (mit Benutzung Deutscher Technologien wie z.B PhotonicNet4Farming, etc)
+4. Integratives Tiergesundheitssystem basierend auf deutscher Erfahrung mit dem Kampf gegen Maul-und Klauenseuche, Brucellose, etc. 
+5. 
+
 
 Welche Lösung habt ihr für das Problem entwickelt?
 
@@ -68,3 +79,4 @@ Bitte hinterlegt eine Lizenz für euer Projekt [LICENSE.md](LICENSE.md)
 * Projekt Manager:in
 
 ---
+
